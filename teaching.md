@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Teaching
 ---
-
-# Teaching
 
 ## M2 OSAE — Automatique
 
