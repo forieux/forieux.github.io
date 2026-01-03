@@ -8,8 +8,8 @@ layout: page
 
 [L2S – Laboratory of Signals and Systems](https://www.l2s.centralesupelec.fr)<br>
 Univ. Paris-Saclay – CNRS – CentraleSupélec<br>
-<i class="fas fa-envelope"></i> 3 rue Joliot-Curie, 91 192 Gif-sur-Yvette, France<br>
-<i class="fas fa-phone"></i> +33 1 69 85 17 47<br>
+<i class="fas fa-envelope"></i> 3 rue Joliot-Curie, 91 190 Gif-sur-Yvette, France<br>
+<i class="fas fa-phone"></i> +33 1 75 31 70 55<br>
 <i class="fas fa-at"></i> francois.orieux@<span class='displaynone'></span>universite-paris-saclay.fr ([GPG key](https://keys.openpgp.org/search?q=17218f250c9ab128a04b29591131bb2904f15681) | [Keyoxide](https://keyoxide.org/francois.orieux@universite-paris-saclay.fr) | [FGP](https://keyoxide.org/17218f250c9ab128a04b29591131bb2904f15681) | [?](gpg))<br>
 <i class="ai ai-hal"></i> [francois-orieux](https://cv.archives-ouvertes.fr/francois-orieux)<br>
 
