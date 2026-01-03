@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Softwares
+
 # Q-MM
 
 ![image](/assets/qmm.png){: width="250"}
@@ -30,7 +32,7 @@ I contribute to the
 [deconvolution](https://scikit-image.org/docs/dev/auto_examples/filters/plot_deconvolution.html)
 algorithms of the [scikit-image](https://scikit-image.org/) library.
 
-# Packages 
+# Packages
 
 * A [Conjugate
   Gradient](http://www.mathworks.com/matlabcentral/fileexchange/44074-preconditionnate-conjugate-gradient)
