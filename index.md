@@ -22,8 +22,8 @@ Not at that time, you can contact me.
 
 ## Activities
 
-* Co-chair of M2 [Automatique, Traitement du Signal et des Images](https://www.master-atsi.universite-paris-saclay.fr/)
-* Elected Head of [Signals and Statistics](https://l2s.centralesupelec.fr/en/research-fields/signal-and-statistics/) team of [L2S](https://www.l2s.centralesupelec.fr) for 2026—2031
+* Head of [Signals and Statistics](https://l2s.centralesupelec.fr/en/research-fields/signal-and-statistics/) team of [L2S](https://www.l2s.centralesupelec.fr) for 2026—2031
+* Co-chair of M2 [Automatique, Traitement du Signal et des Images](https://www.master-atsi.universite-paris-saclay.fr/) since 2023
 * **Ill posed inverse problems** : Signal and image processing
 * Bayesian data inference and computational methods.
 * Probabilistic models, stochastic and optimisation algorithms.
