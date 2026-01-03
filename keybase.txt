@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/forieux
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pro.orieux.fr
+  * I am forieux (https://keybase.io/forieux) on keybase.
+  * I have a public key ASDPHZj2BEzAuCfoQRqWmnKxdU8eSLJuU3VVXGubNTgzawo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cf1d98f6044cc0b827e8411a969a72b1754f1e48b26e5375555c6b9b3538336b0a",
+      "host": "keybase.io",
+      "kid": "0120cf1d98f6044cc0b827e8411a969a72b1754f1e48b26e5375555c6b9b3538336b0a",
+      "uid": "f2df4a2925eb20333ff58d01e6605f19",
+      "username": "forieux"
+    },
+    "merkle_root": {
+      "ctime": 1570713407,
+      "hash": "9f1e7b5d02f67a7d09fd453b799d6f26ccbcce866458ab49829f2ffcf304cbd5bfd48e3d025ca037db1814b71eb6f0037df4db7caa53d8346f27b257a928b363",
+      "hash_meta": "19c645d329ff07181bad4ccf97f9d6cd1cb6c1921b8f60b5ea30d39a93c1eba6",
+      "seqno": 7964866
+    },
+    "service": {
+      "entropy": "BwUsmKZi2X7oaMqZiDSl5om6",
+      "hostname": "pro.orieux.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570713425,
+  "expire_in": 504576000,
+  "prev": "d0f770754fea9c823f0dc92f4d2a88159ec5116ac4472d4bb0227dfe21a1f8a1",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzx2Y9gRMwLgn6EEalppysXVPHkiyblN1VVxrmzU4M2sKp3BheWxvYWTESpcCDsQg0PdwdU/qnII/DckvTSqIFZ7FEWrERy1LsCJ9/iGh+KHEIPaDIhEG0ZzjQzurfYRiPnJD/lPAsDSqHgFJg0DwLf0bAgHCo3NpZ8RA+bYJNLvECaTA4qO+TyoVF4Yu+9iZpg3xqCQo5MkwxelKDJLsDGJ3xpx+gxPES91mOm3BspDUjKW9bKtjFlUJDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDMHvptcd1wQp3qJrAwVfANbOQVYEDhi1LBnovqQFkclo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/forieux
+
+==================================================================
