@@ -42,7 +42,7 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "orieux@l2s.centralesupelec.fr"
+  email: "francois.orieux@universite-paris-saclay.fr"
   github: forieux
   ORCID: 0000-0001-5638-3416
   # patreon: DeanAttali
@@ -50,7 +50,7 @@ social-network-links:
   researchgate: Francois_Orieux
   google-scholar: citations?user=p-FJ9GoAAAAJ
   linkedin: françois-orieux-a712607b
-  twitter: FrancoisOrieux
+  # twitter: FrancoisOrieux
   youtube: channel/UC_S0ZvlJxOZ0ISNovvWKWdg
   # hal: francois-orieux
 
