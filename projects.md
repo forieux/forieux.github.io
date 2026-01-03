@@ -2,7 +2,9 @@
 layout: page
 ---
 
-# MCMC Uncertainty Quantification and hyperparameter estimation
+# Projects
+
+## MCMC Uncertainty Quantification and hyperparameter estimation
 
 ![image](/assets/deconv.jpg){: width="500"}
 
@@ -14,7 +16,7 @@ uncertainty quantification and hyperparameter estimation in inverse problems.
     processing conference (EUSIPCO), 2017, pp. 758–762, doi:
     10.23919/EUSIPCO.2017.8081309.
 
-# [SIDISO](https://sidiso.github.io/) project : Hyperspectral reconstruction
+## [SIDISO](https://sidiso.github.io/) project : Hyperspectral reconstruction
 
 ![image](/assets/jwst-orion.jpg){: width="500"}
 
@@ -28,7 +30,7 @@ unmixing and super-resolution.
     Processing, Abu-Dhabi, United Arab Emirates, Oct. 2020, p. 5.
     Available: https://hal.archives-ouvertes.fr/hal-02773302/document.
 
-# Hyperstars and source separation
+## Hyperstars and source separation
 
 ![image](/assets/hyperstars.png){: width="500"}
 
@@ -42,7 +44,7 @@ understand star formation.
     Analysis,” Astronomy and Astrophysics - A&A, vol. 626, p. A101, 2019, doi:
     10.1051/0004-6361/201935335.
 
-# Fourier synthesis and the Square Kilometer Array
+## Fourier synthesis and the Square Kilometer Array
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/d/d9/SKA_overview.jpg){: width="500"}
 
@@ -52,7 +54,7 @@ objective to build new simulation tools to design hybrid HPC systems adapted to
 the process of the huge amount of data with complex algorithms. We notably work
 on new Fourier synthesis, reconstruction and deconvolution algorithms.
 
-# Microscopy Imaging: Structured Illumination Microscopy
+## Microscopy Imaging: Structured Illumination Microscopy
 
 ![image](/assets/sim.png){: width="500"}
 
