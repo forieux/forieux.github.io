@@ -35,12 +35,12 @@ algorithms of the [scikit-image](https://scikit-image.org/) library.
 # Packages
 
 * A [Conjugate
-  Gradient](http://www.mathworks.com/matlabcentral/fileexchange/44074-preconditionnate-conjugate-gradient)
+  Gradient](https://www.mathworks.com/matlabcentral/fileexchange/44074-preconditionnate-conjugate-gradient)
   descent optimisation function design for quadratic criterion and linear
   problem defined on large unknown (compatible with complex unknown). Any
   feedback, patch and issue report are welcome.
 * An [unsupervised
-  deconvolution](http://www.mathworks.fr/matlabcentral/fileexchange/30880-unsupervised-wiener-hunt-deconvolution)
+  deconvolution](https://www.mathworks.fr/matlabcentral/fileexchange/30880-unsupervised-wiener-hunt-deconvolution)
   based on the Wiener-Hunt filter. The estimation of the regularisation
   parameter is done thanks to a Gibbs sampler.
 
@@ -58,7 +58,7 @@ algorithms of the [scikit-image](https://scikit-image.org/) library.
   algorithm illustrated on a Super-Resolution problem
 
 In a general way, the source code are under free license (open source license if
-you prefer), typically [MIT](http://opensource.org/licenses/mit-license.html) or
-[BSD](http://opensource.org/licenses/bsd-license.php) or
-[GPL](http://opensource.org/licenses/gpl-3.0.html). This mean that you can copy,
+you prefer), typically [MIT](https://opensource.org/licenses/mit-license.html) or
+[BSD](https://opensource.org/licenses/bsd-license.php) or
+[GPL](https://opensource.org/licenses/gpl-3.0.html). This mean that you can copy,
 share and adapt the work with minor restriction.

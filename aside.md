@@ -7,7 +7,7 @@ layout: page
 > appartient au passé. Dans le champ des connaissances, production rime
 > aujourd'hui avec protection et exploitation.&nbsp;»
 
-<p style="text-align:right;"><cite><a href="http://ec.europa.eu/research/news-centre/fr/soc/02-07-soc02.html">Magazine d'information de la commission européenne sur la recherche.</a></cite></p>
+<p style="text-align:right;"><cite><a href="https://ec.europa.eu/research/news-centre/fr/soc/02-07-soc02.html">Magazine d'information de la commission européenne sur la recherche.</a></cite></p>
 
 > «&nbsp;Mars 2000 : un Conseil européen extraordinaire se réunit à Lisbonne.
 > Quoiqu'il n'ait pas fait les gros titres et demeure inconnu du grand public,
@@ -30,7 +30,7 @@ layout: page
 > culturelles attractives aux yeux des investisseurs. Quantifier ainsi le
 > travail scientifique et l'art de gouverner n'est pas neutre.&nbsp;»
 
-<p style="text-align:right;"><cite><a href="http://ceraps.univ-lille2.fr/fr/actualites/detail-article/archive/2008/february/article/a-vos-marques-prets-cherchez-la-strategie-europeenne-de-lisbonne-vers-un-marche-de-la-rec.html?tx_ttnews[backPid]=199&amp;cHash=3d7da2f941">Isabelle Bruno, « A vos marques, prêts... cherchez !  La stratégie européenne de Lisbonne, vers un marché de la recherche», Editions du Croquant.</a></cite></p>
+<p style="text-align:right;"><cite><a href="https://ceraps.univ-lille2.fr/fr/actualites/detail-article/archive/2008/february/article/a-vos-marques-prets-cherchez-la-strategie-europeenne-de-lisbonne-vers-un-marche-de-la-rec.html?tx_ttnews[backPid]=199&amp;cHash=3d7da2f941">Isabelle Bruno, « A vos marques, prêts... cherchez !  La stratégie européenne de Lisbonne, vers un marché de la recherche», Editions du Croquant.</a></cite></p>
 
 > «&nbsp;Nous sommes entrés dans l'ère des marchands. Leur culture a triomphé. C'est
 > essentiellement une culture de l'évaluation. Le triomphe d'un nouveau regard
