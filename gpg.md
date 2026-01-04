@@ -6,7 +6,7 @@ permalink: /gpg/
 
 I use GPG to sign my email and to prove online identity on some website. You can use my public key to verify it's me and to encrypt messages if you want.
 
-- The fingerprint of my public key is 17218f250c9ab128a04b29591131bb2904f15681.
+- The fingerprint of my public key is `17218f250c9ab128a04b29591131bb2904f15681`
 - You can retrieve the key on [keys.openpgp.org](https://keys.openpgp.org/search?q=17218f250c9ab128a04b29591131bb2904f15681).
 - [Keyoxide](https://keyoxide.org/francois.orieux@universite-paris-saclay.fr)
   make the link between my key and online identity, that are
