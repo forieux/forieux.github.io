@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Softwares
 ---
-
-# Softwares
 
 # Q-MM
 
